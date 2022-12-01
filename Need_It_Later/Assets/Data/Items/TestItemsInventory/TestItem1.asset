@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7641b8fc5d88f64dbec0a3e52a1ff8c, type: 3}
+  m_Name: TestItem1
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 579185289, guid: 18effd2d9c6fdb24da266626a94b4e73, type: 3}
+  FireMode: 1
+  Duration: 4
+  AddRange: 2
+  AddProjectileSpeed: 3
+  AddFireRate: 1
+  AddProjectileSize: 4
+  AddDamage: 1
+  AddAccuracy: 2
+  MultRange: 1.2
+  MultProjectileSpeed: 1.4
+  MultFireRate: 1
+  MultProjectileSize: 1.6
+  MultDamage: 0.7
+  MultAccuracy: 0.9

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26a2666b34534021822f9b928a1ad0f6, type: 3}
+  m_Name: BasicWeaponStats
+  m_EditorClassIdentifier: 
+  BaseRange: 4
+  BaseProjectileSpeed: 10
+  BaseFiringRate: 0.2
+  BaseProjectileSize: 0.5
+  BaseDamage: 5
+  BaseSpread: 10
+  FiringAction: 1
+  ProjectilePrefab: {fileID: 9119307609978700830, guid: d4235c027e5d7324188821a10deeebfb, type: 3}

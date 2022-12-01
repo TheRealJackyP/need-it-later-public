@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d575a2e3d854d3d409d0cf6561dd7a40
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Lavoir
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 902d80be75e492945bbf70a03bd8318f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
