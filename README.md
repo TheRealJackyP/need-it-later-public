@@ -1,4 +1,4 @@
-# Need it Later
+# Need It Later
 You have one question to answer and that's whether or not it's time to use that potion you've been holding onto, because you never know if you need it now or if you'll need it later. After all, "you can't have your cake and eat it too".
 
 ## Controls:
